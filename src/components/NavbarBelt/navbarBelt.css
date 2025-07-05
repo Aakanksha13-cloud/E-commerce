@@ -1,8 +1,9 @@
 .navbar-belt {
     background-color: #f2f8fd; 
     color: #001E60;
-    height: 48px;
+    height: 40px;
     padding: 1.2rem 1rem 0 1rem;
+    font-size: 1.1rem;
 }
 
 .components {
