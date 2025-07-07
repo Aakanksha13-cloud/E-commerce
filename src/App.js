@@ -11,9 +11,15 @@ function App() {
       <NavbarBelt />
     
       <div className="main-content">
-      <h1>Explore our new arrivals!</h1>
-      <h3>Great sales on everything!</h3>
-      <h6>Check them out</h6>
+        <div className="all">ALL</div>
+        <div className="home">Home</div>
+        <div className="bestsellers">Bestsellers</div>
+        <div className="reels">Reels</div>
+        <div className="todays-deal">Today's Deals</div>
+        <div className="customer-services">Customer Services</div>
+        <div className="new-releases">New Releases</div>
+        <div className="fresh">Fresh</div>
+        
       </div>
 
 
