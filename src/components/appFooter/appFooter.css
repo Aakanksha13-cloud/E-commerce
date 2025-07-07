@@ -16,6 +16,7 @@
 }
 
 .feedback {
+    padding-top: 20px;
     font-weight: 200;
     &:hover {
         text-decoration: underline;
@@ -55,10 +56,9 @@ ul {
 li {
     margin-left: 0.5rem;
     cursor: pointer;
-    font-weight: 100;
+    font-weight: 300;
     padding-left: 8px;
     &:hover {
-        font-weight: 450;
         text-decoration: underline;
     }
 }
