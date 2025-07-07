@@ -19,10 +19,6 @@
   position: relative;
 }
 
-/* .components div:hover {
-  border-bottom: 2px solid black;
-} */
-
 .allMenu {
   display: flex;
   cursor: pointer;

@@ -22,7 +22,24 @@ h6 {
   color: #555;
 }
 
-.App-logo {
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Full viewport height */
+}
+
+.main-content {
+  flex: 1; /* Fills available space */
+  padding: 20px; /* Optional: some spacing */
+}
+
+.footer {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 10px 0;
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -56,4 +73,4 @@ h6 {
   to {
     transform: rotate(360deg);
   }
-}
+} */

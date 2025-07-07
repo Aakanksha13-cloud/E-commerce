@@ -45,8 +45,7 @@ const NavbarBelt = () => {
         <div>Fresh</div>
         <ArrowDropDownIcon></ArrowDropDownIcon>
         </div>
-
-
+         
       </div>
     </div>
   )
